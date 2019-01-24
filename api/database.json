@@ -1,0 +1,32 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "0011225020926"
+    },
+    {
+      "id": 2,
+      "name": "Miso Soup",
+      "category": "Soup",
+      "ethnicity": "Japanese",
+      "barcode": "5060194790380"
+    },
+    {
+      "id": 3,
+      "name": "Burrito",
+      "category": "tacoBased",
+      "ethnicity": "Latino",
+      "barcode": "8410076471215"
+    },
+    {
+      "name": "Ramen",
+      "category": "ninjaBased",
+      "ethnicity": "Asian",
+      "id": 4,
+      "barcode": "8712429350407"
+    }
+  ]
+}

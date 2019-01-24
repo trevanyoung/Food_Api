@@ -1,0 +1,14 @@
+     .foodlist {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-around;
+        width: 75%;
+    } 
+
+    .foodCard{
+        border: 3px solid firebrick;
+    }
+
+    .textStyle{
+        font-family: "Comic Sans MS", cursive, sans-serif
+    }
